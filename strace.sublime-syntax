@@ -6,6 +6,8 @@ scope: source.strace
 
 contexts:
   main:
+    - match: \b(\d\d:\d\d:\d\d)\b
+      scope: constant.numeric.strace
     - match: ^([a-z\d_]+)\b
       scope: keyword.control.strace
     - match: '"'
