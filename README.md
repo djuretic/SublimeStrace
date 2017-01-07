@@ -1,6 +1,6 @@
 # Strace Syntax for Sublime Text
 
-It works with files with `.strace` extension.
+It works with files with `.strace` extension. Install it via Package Control.
 
 # License
 
