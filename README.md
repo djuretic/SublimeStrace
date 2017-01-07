@@ -1,7 +1,5 @@
 # Strace Syntax for Sublime Text
 
-![Strace syntax](strace_syntax.png?raw=true)
-
 It works with files with `.strace` extension.
 
 # License
