@@ -2,7 +2,7 @@
 
 ![Strace syntax](strace_syntax.png?raw=true)
 
-It works with files with `.strace` extension.
+It works with files with `.strace` extension. Install it via Package Control.
 
 # License
 
